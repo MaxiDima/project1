@@ -1,0 +1,12 @@
+.productitm{
+    width: 300px;
+    border: 2px solid black;
+}
+.productimg{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.productTitle{
+    text-align:center ;
+}
