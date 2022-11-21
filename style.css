@@ -1,6 +1,8 @@
 .productitm{
     width: 300px;
     border: 2px solid black;
+    background: linear-gradient(265deg, #DC9696 9.12%, rgba(97, 139, 148, 0.875613) 56.74%, rgba(53, 146, 38, 0.74) 119.13%);
+
 }
 .productimg{
     width: 80%;
