@@ -1,14 +1,12 @@
-.productitm{
-    width: 300px;
-    border: 2px solid black;
-    background: linear-gradient(265deg, #DC9696 9.12%, rgba(97, 139, 148, 0.875613) 56.74%, rgba(53, 146, 38, 0.74) 119.13%);
-
-}
-.productimg{
-    width: 80%;
-    margin-left: 10%;
-    margin-right: 10%;
-}
-.productTitle{
-    text-align:center ;
-}
+.textBlock{
+    background-color: rgb(65, 236, 65);
+    color: aliceblue;
+    width: 50%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: 3px solid black;
+    border-radius: 5px;
+    text-align: center;
+        }
